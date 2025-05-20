@@ -3,20 +3,7 @@ Softblend - Task and User Management Backend
 This project is a simple backend application built using Node.js, Express, and MongoDB. It allows you to create and manage users and tasks through REST APIs.
 
 
-📁 Folder Structure
-
-backend/
-
-├── models/          # Mongoose schemas for User and Task
-│   ├── User.js
-│   └── Tasks.js
-├── routes/          # API route definitions
-│   ├── userRoutes.js
-│   └── taskRoutes.js
-├── app.js           # Main application file
-├── .env             # Environment variables
-├── package.json     # Project metadata and dependencies
-
+<pre> ### 📁 Folder Structure ``` backend/ ├── models/ # Mongoose schemas for User and Task │ ├── User.js │ └── Tasks.js ├── routes/ # API route definitions │ ├── userRoutes.js │ └── taskRoutes.js ├── app.js # Main application file ├── .env # Environment variables ├── package.json # Project metadata and dependencies ``` </pre>
 🚀 Features
 
 👤 User APIs
