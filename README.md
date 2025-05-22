@@ -61,6 +61,23 @@ You can use Thunder Client (VS Code extension) to test these APIs. Example test 
 - Mongoose
 - dotenv
 
+Here are the Api's checked on Thunder Client for all routes : 
+
+![image](https://github.com/user-attachments/assets/e879ca73-fb51-4770-8a09-e1df8db93e93)
+
+![image](https://github.com/user-attachments/assets/25226b93-d4d8-4228-a5e0-0c318e6e2229)
+
+![image](https://github.com/user-attachments/assets/661d8fc4-b0ed-4328-b914-1396bf79f396)
+
+![image](https://github.com/user-attachments/assets/169029e7-90a3-4e12-9c26-6ea4623ef7c4)
+
+![image](https://github.com/user-attachments/assets/1e3cbbe6-a1fb-4a75-98de-54a597bad3d3)
+
+![image](https://github.com/user-attachments/assets/61a7ad9d-54f1-476e-83e1-dbba9d401ae9)
+
+![image](https://github.com/user-attachments/assets/47a422b3-ae2f-4f2d-91f0-2ef0212f3313)
+
+
 
 📌 Note
 All route logic is written directly inside the route files. There are no separate controller files. This backend is ideal for learning basic CRUD operations with REST APIs and MongoDB.
